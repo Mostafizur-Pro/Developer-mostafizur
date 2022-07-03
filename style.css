@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    padding-left: 50px;
+    margin: 0;
 }
 .orenge-color {
     color: orange;
@@ -21,4 +21,8 @@ section{
     background-image: linear-gradient(orange, tomato);
     color: white;
     border-radius: 10px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
